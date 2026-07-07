@@ -3,9 +3,7 @@
 def query1(name):
     print("Hello,",name)
 
-user2=input("enter name=")
-user=[]
-user.append(input("enter name="))
+user=input("enter name=")
 query1(user)
    
  
