@@ -1,4 +1,4 @@
-# function banao jo number input lekar Even ya Odd number print kare
+# Make a function that takes a number as input and prints whether it's even or odd
 def question4(number):
     if number % 2==0:
         return("even")
