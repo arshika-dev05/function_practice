@@ -1,4 +1,4 @@
-#  create a function that takes 2 number as input and print their sum.
+#  create a function that takes 2 numbers as input and print their sum.
 
 def question2(num1,num2):
     return(num1 + num2)
