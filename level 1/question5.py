@@ -1,4 +1,4 @@
-# function banao jo number input lekar square print kare 
+#  Make a function that takes a number as input and prints its square
 def question5(number):
     return number**2
 
