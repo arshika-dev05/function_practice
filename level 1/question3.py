@@ -1,20 +1,4 @@
-# function banao jo 3 numbers input lekar sabse bada number print kare
-
-# def question3(no1):
-#     largest=no1[0]
-#     for x in no1:
-#         if x > largest:
-#             largest = x
-#     return largest        
-
-# store=[]
-# for x in range(0,3):    
-#     num1=int(input("enter no 1="))   
-#     store.append(num1)
-# print(store)    
-# result=question3(store)
-# print(result)
-
+#  create a function that takes three number as input and print the largest number.
  
 def question3(no1,no2,no3):
     if no1>=no2 and no1>=no3:
