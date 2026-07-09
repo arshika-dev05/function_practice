@@ -3,12 +3,13 @@ def palindrome(number_word):
     copy=number_word
     reverse = copy[::-1]
     if number_word == reverse:
-        print("yes it's palindrome ")
+        print(f"'{number_word}' it's palindrome ")
     else:
-        print("no it's not palindrome ")
+        print(f"'{number_word}' it's not palindrome ")
 
 
 num_word=input("enter number/word=").lower()
 palindrome(num_word)
+
      
     
