@@ -1,4 +1,4 @@
-# find smallest number in the list, but without useing min().
+# find smallest number in the list, but without using min().
 def smallest_num(my_lsit):
     smallest=my_lsit[0]
     for i in my_list:
